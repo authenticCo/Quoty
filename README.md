@@ -1,0 +1,2 @@
+# Quoty
+Random Quote Generator
