@@ -1,0 +1,35 @@
+body{
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;
+}
+#wrapper{
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1{
+    font-size: 100px;
+    text-transform: uppercase;
+}
+#inner-wrapper{
+    position:relative;
+    top: 300px;
+}
+#quoteDisplay{
+    font-size: 40px;
+    margin: 200px 0 150px 0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+.btn-custom{
+    padding: 25px 50px;
+    margin-top: 50px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: all 0.4s ease-in-out;
+}
